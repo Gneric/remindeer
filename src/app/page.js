@@ -1,4 +1,4 @@
-import MainPage from "./ui/main"
+import MainPage from "./ui"
 
 export default function Home() {
   return (

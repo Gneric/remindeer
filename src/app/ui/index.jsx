@@ -10,8 +10,8 @@ export default function MainPage(){
                     Remindeer
                 </h1>
             </div>
-            <div className="w-screen h-5/6 flex flex-row">
-                <div className="bg-slate-950 w-4/12">
+            <div className="w-screen h-5/6 flex flexrow">
+                <div className="bg-slate-950 w-4/12 p-6">
                     <TodoList></TodoList>
                 </div>
                 <div className="bg-slate-600 w-4/12">02</div>
